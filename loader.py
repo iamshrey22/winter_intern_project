@@ -17,5 +17,4 @@ def load_and_split_document(file_path):
     )
     return text_splitter.split_documents(documents)
 
-# Example usage:
-# docs = load_and_split_document("example.pdf")
+
