@@ -1,0 +1,6 @@
+langchain
+langchain-community
+qdrant-client
+sentence-transformers
+unstructured[md]
+pymupdf
